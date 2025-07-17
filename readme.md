@@ -20,3 +20,6 @@ No additional plugins are required for this as it is written in pure Vimscript. 
 # Customization:
 Author Name: Change "Your Name" in the ```call add(boilerplate, ' * @author Your Name')``` to your name
 Boilerplate content: you can easily add or remove lines from the list within the JavaBoilerPlate() function to customize what is generated.
+
+# Contribution
+Feel free to make suggestions via a pull request, or fork this repo and put your own spin on it.
