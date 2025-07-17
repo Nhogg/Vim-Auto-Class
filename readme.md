@@ -8,7 +8,7 @@ Features:
 - Javadoc: includes a basic Javadoc that can easily be updated
 - Modular: this template is easy to update via the vimrc. More info below
 -
-# Instillation and Configuration
+# Installation and Configuration
 No additional plugins are required for this as it is written in pure Vimscript. Just clone the repo (or copy and paste) and add the code to your ~/.vimrc or init.vim file.
 
 # Usage
@@ -18,6 +18,5 @@ No additional plugins are required for this as it is written in pure Vimscript. 
 4. If the file is actually new, the boilerplate will be automatically inserted and your cursor will be placed inside the class.
 
 # Customization:
-Author Name: Change "Your Name" in the '''call add(boilerplate, ' * @author Your Name')''' to your name
+Author Name: Change "Your Name" in the ```call add(boilerplate, ' * @author Your Name')``` to your name
 Boilerplate content: you can easily add or remove lines from the list within the JavaBoilerPlate() function to customize what is generated.
-
